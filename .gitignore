@@ -3,5 +3,7 @@ __pycache__/
 *.pyo
 .env
 results/
+recon/
+reports/
 *.log
 .DS_Store
